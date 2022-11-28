@@ -1,5 +1,5 @@
 import { convertGender } from "../../helper";
-import BuyAssetStep1 from "../BuyAsSetStep1";
+import BuyAssetStep1 from "../BuyAssetStep1";
 
 export default function BuyAssetStep4({employee, asset}){
     return (
