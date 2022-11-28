@@ -1,7 +1,7 @@
 import Head from "next/head"
 import { useRouter } from "next/router"
 import { useEffect, useMemo, useState } from "react"
-import BuyAssetStep1 from "../../components/BuyAsSetStep1"
+import BuyAssetStep1 from "../../components/BuyAssetStep1"
 import BuyAssetStep2 from "../../components/BuyAssetStep2"
 import BuyAssetStep3 from "../../components/BuyAssetStep3"
 import BuyAssetStep4 from "../../components/BuyAssetStep4"
